@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Athos Ferraz</h1>
 <h3 align="center">A passionate Senac-SP game design student from Brazil (also a Mechatronics technician)</h3>
 
-- 🔭 I’m currently working on the game :soon:**Ilha 120: Desastre Radioativo**
+- 🔭 I’m currently working on my TCC
 
 - 🌱 I’m currently learning **Photon Fusion**
 

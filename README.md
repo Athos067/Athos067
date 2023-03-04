@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on my TCC
 
-- 🌱 I’m currently learning **Photon Fusion**
+- 🌱 I’m currently learning **Articy:Draft 3**
 
 - 👨‍💻 All of my projects are available at [https://itch.io/c/1766756/games-i-worked-on](https://itch.io/c/1766756/games-i-worked-on)
 
 - 📫 How to reach me **athos.ferraz712@gmail.com**
 
-- ⚡ Fun fact **I love writing, study languages and listen to strange music**
+- ⚡ Fun fact **I love writing, study languages and listen to random music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

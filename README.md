@@ -1,15 +1,15 @@
 <h1 align="center">Hello there 👋, I'm Athos Ferraz</h1>
-<h3 align="center">A passionate Senac-SP game design student from Brazil (also a Mechatronics technician)</h3>
+<h3 align="center">A passionate writer and Senac-SP game design student from Brazil (also a Mechatronics technician)</h3>
 
 - 🔭 I’m currently working on my TCC
 
-- 🌱 I’m currently learning **Articy:Draft 3**
+- 🌱 I’m currently learning **Writing for games**
 
 - 👨‍💻 All of my projects are available at [https://itch.io/c/1766756/games-i-worked-on](https://itch.io/c/1766756/games-i-worked-on)
 
 - 📫 How to reach me **athos.ferraz712@gmail.com**
 
-- ⚡ Fun fact **I love writing, study languages and listen to random music**
+- ⚡ Fun fact **I love to study languages and listen to random music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Athos Ferraz</h1>
 <h3 align="center">A passionate writer and Senac-SP game design student from Brazil (also a Mechatronics technician)</h3>
 
-- 🔭 I’m currently working on my TCC
+- 🔭 I’m currently working on Writing for my non-linear story driven game
 
-- 🌱 I’m currently learning **Writing for games**
+- 🌱 I’m currently studying **Writing techniques**
 
 - 👨‍💻 All of my projects are available at [https://itch.io/c/1766756/games-i-worked-on](https://itch.io/c/1766756/games-i-worked-on)
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Athos Ferraz</h1>
-<h3 align="center">A passionate writer and Senac-SP game design student from Brazil (also a Mechatronics technician)</h3>
+<h1 align="center">Hello there 👋, I'm Athos Ferraz, HighGrounder Studio Leader/Co-founder</h1>
+<h3 align="center"> Narrative Designer, game designer, writer, generalist... I love everything about stories and ways fo telling them (also a Mechatronics technician)</h3>
 
 - 🔭 I’m currently working on Writing for my non-linear story driven game
 

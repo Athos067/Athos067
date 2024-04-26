@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Athos Ferraz, HighGrounder Studio Leader</h1>
+<h1 align="center">Hello there! I'm Athos Ferraz, HighGrounder Studio Creative Lead</h1>
 <h3 align="center"> Narrative Designer, game designer, writer, generalist... I love everything about stories and ways fo telling them (also a Mechatronics technician)</h3>
 
 - 🔭 I’m currently working on Writing for my non-linear story driven game
